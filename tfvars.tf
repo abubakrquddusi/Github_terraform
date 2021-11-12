@@ -8,7 +8,7 @@ variable "Virtual_Subnet_Name" {
 */
 variable "location" {
 
-  default = "Australia East"
+  default = "eastus"
 }
 
 variable "Vnet_address" {
